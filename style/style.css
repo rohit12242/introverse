@@ -1,0 +1,34 @@
+body {
+    font: 14px/26px 'Bungee', Helvetica, Arial, sans-serif;
+    color: #222;
+    margin: 0x;
+    padding: 0x;
+    text-transform: uppercase;
+    background-color: rgb(166, 213, 233);
+}
+
+
+.grid-container {
+    display: grid;
+}
+
+.iframe-style {
+    position: absolute;
+    height: 100%;
+}
+
+.text-style {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 280px;
+    padding-right: 0px;
+    overflow: auto;
+}
+
+.audio-style{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
