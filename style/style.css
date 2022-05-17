@@ -22,13 +22,55 @@ body {
     top: 0;
     right: 0;
     bottom: 0;
-    width: 280px;
-    padding-right: 0px;
+    width: 320px;
+    padding-right: 15px;
     overflow: auto;
+}
+
+.text-style-left {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 320px;
+    padding-left: 15px;
+    overflow: auto;
+}
+.text-style-center {
+    position: absolute;
+    top: 8%;
+    left: 30%;
+    right: 30%;
+    /* width: 320px; */
+    /* padding-left: 15px; */
+    overflow: auto;
+}
+
+.content-design{
+    color: #F5EDC6; 
+    font-family: Gupter;
+    font-style: normal; 
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 120%;
+    text-align: justify;
+    font-feature-settings: 'ss01';
+}
+.header-design{
+    color: #F5EDC6; 
+    font-family: Gupter;
+    font-style: normal; 
+    /* font-weight: 500; */
+    /* font-size: 16px; */
+    /* line-height: 120%; */
+    text-align: justify;
+    width: 100%;
+    /* height: 151.67px; */
+    /* font-feature-settings: 'ss01'; */
 }
 
 .audio-style{
     position: absolute;
-    right: 0;
+    left: 0;
     bottom: 0;
 }
