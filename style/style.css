@@ -56,6 +56,16 @@ body {
     text-align: justify;
     font-feature-settings: 'ss01';
 }
+.content-design-bottom{
+    color: #F5EDC6; 
+    font-family: Gupter;
+    font-style: normal; 
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 0%;
+    text-align: justify;
+    font-feature-settings: 'ss01';
+}
 .header-design{
     color: #F5EDC6; 
     font-family: Gupter;
@@ -73,4 +83,30 @@ body {
     position: absolute;
     left: 0;
     bottom: 0;
+}
+
+
+.social-insta{
+    position: absolute;
+    right: -24px;
+    bottom: -3px;
+    height: 7%;
+    width: 7%;
+}
+.social-twitter{
+    position: absolute;
+    right: 48px;
+    bottom: 2px;
+    height: 6%;
+    width: 6%;
+}
+
+.text-style-bottom{
+    position: absolute;
+    bottom: 7%;
+    left: 33%;
+    right: 30%;
+    /* width: 320px; */
+    /* padding-left: 15px; */
+    overflow: auto;
 }
