@@ -4,7 +4,8 @@ body {
     margin: 0x;
     padding: 0x;
     text-transform: uppercase;
-    background-color: rgb(166, 213, 233);
+    /* background-color: rgb(166, 213, 233); */
+    background-color: #6bc7cc;
 }
 
 
@@ -109,4 +110,9 @@ body {
     /* width: 320px; */
     /* padding-left: 15px; */
     overflow: auto;
+}
+
+.header{
+    color: #F5EDC6;
+   
 }
