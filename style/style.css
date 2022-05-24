@@ -40,7 +40,7 @@ body {
 .text-style-center {
     position: absolute;
     top: 8%;
-    left: 30%;
+    left: 27%;
     right: 30%;
     /* width: 320px; */
     /* padding-left: 15px; */
@@ -68,7 +68,7 @@ body {
     font-feature-settings: 'ss01';
 }
 .header-design{
-    color: #F5EDC6; 
+    /* color: #F5EDC6;  */
     font-family: Gupter;
     font-style: normal; 
     /* font-weight: 500; */
